@@ -70,7 +70,7 @@ namespace NAprac6
                     Console.WriteLine();
                 }
                 Console.WriteLine();
-                Console.WriteLine("While: ");
+                ;
             }
         }
     }

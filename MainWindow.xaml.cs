@@ -69,7 +69,8 @@ namespace NAprac6
                 {
                     Console.WriteLine();
                 }
-                Console.WriteLine();
+                return 0
+                
                 ;
             }
         }
